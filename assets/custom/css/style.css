@@ -213,6 +213,11 @@ body {
 	background-color: transparent;
 	
   } 
+  
+  .sponsors-section .sponsors .card img {
+	max-width: 20rem;
+  }
+
   .sponsors-section .sponsors .sponsor-type {
 	margin: 1rem 0;
 	padding: 0.8rem 0;
